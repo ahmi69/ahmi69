@@ -11,5 +11,3 @@
 
 ### Databases
 <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" width="40" height="40">
-
-### <img src="https://emoji.discadia.com/emojis/3ba398cc-865e-4359-9cbc-dcc3bfd1139d.PNG" width="40" height="40">[My arts](https://github.com/ahmi69/my-arts)<img src="https://emoji.discadia.com/emojis/3ba398cc-865e-4359-9cbc-dcc3bfd1139d.PNG" width="40" height="40">
