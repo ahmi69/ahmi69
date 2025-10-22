@@ -1,4 +1,4 @@
-## Hello hello, I'm Daminika!  
+# Hello hello, I'm Daminika!  
 ### I'm a student and an artist, 19 yo<img src="https://emoji.discadia.com/emojis/3ba398cc-865e-4359-9cbc-dcc3bfd1139d.PNG" width="40" height="40">
 
 ### Main languages
