@@ -9,5 +9,5 @@
 ### Operating systems
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"> <img src="https://cdn-icons-png.flaticon.com/512/906/906308.png" width="40" height="40">
 
-### [My Pinterest portfolio](https://ru.pinterest.com/ahmi6969/portfolio/)
+### [My behance portfolio](https://www.behance.net/gallery/250322987/portfolio-2-kurs-pi-dizajn)
 
